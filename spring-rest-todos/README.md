@@ -4,7 +4,7 @@ A simple todo list sample application built with Spring
 
 ## Prerequisites
 
-This sample app requires the [Bower](http://bower.io) package manager. Use npm to install Bower:
+This sample app requires the [Bower](https://bower.io) package manager. Use npm to install Bower:
 
 ```sh
 npm install -g bower
